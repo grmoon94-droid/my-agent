@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("2 페이지 입니다.")
+st.title("Dashboard")
 
 import streamlit as st
 
